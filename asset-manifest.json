@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Lorem-Movies/static/css/main.0817079b.css",
+    "main.js": "/Lorem-Movies/static/js/main.dbee9aa5.js",
+    "index.html": "/Lorem-Movies/index.html",
+    "main.0817079b.css.map": "/Lorem-Movies/static/css/main.0817079b.css.map",
+    "main.dbee9aa5.js.map": "/Lorem-Movies/static/js/main.dbee9aa5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0817079b.css",
+    "static/js/main.dbee9aa5.js"
+  ]
+}
